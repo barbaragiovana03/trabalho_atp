@@ -1,0 +1,1 @@
+linhas=8, colunas=8, totalBombas =8.

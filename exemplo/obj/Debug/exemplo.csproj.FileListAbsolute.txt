@@ -1,0 +1,24 @@
+C:\Users\Pc\Desktop\PUC MINAS-2023\(ATP-LAB) ALGORITIMOS E TECNICAS DA PROGRAMAÇÃO\TrabalhoPratico\exemplo\bin\Debug\exemplo.exe.config
+C:\Users\Pc\Desktop\PUC MINAS-2023\(ATP-LAB) ALGORITIMOS E TECNICAS DA PROGRAMAÇÃO\TrabalhoPratico\exemplo\bin\Debug\exemplo.exe
+C:\Users\Pc\Desktop\PUC MINAS-2023\(ATP-LAB) ALGORITIMOS E TECNICAS DA PROGRAMAÇÃO\TrabalhoPratico\exemplo\bin\Debug\exemplo.pdb
+C:\Users\Pc\Desktop\PUC MINAS-2023\(ATP-LAB) ALGORITIMOS E TECNICAS DA PROGRAMAÇÃO\TrabalhoPratico\exemplo\obj\Debug\exemplo.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\PUC MINAS-2023\(ATP-LAB) ALGORITIMOS E TECNICAS DA PROGRAMAÇÃO\TrabalhoPratico\exemplo\obj\Debug\exemplo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pc\Desktop\PUC MINAS-2023\(ATP-LAB) ALGORITIMOS E TECNICAS DA PROGRAMAÇÃO\TrabalhoPratico\exemplo\obj\Debug\exemplo.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\PUC MINAS-2023\(ATP-LAB) ALGORITIMOS E TECNICAS DA PROGRAMAÇÃO\TrabalhoPratico\exemplo\obj\Debug\exemplo.exe
+C:\Users\Pc\Desktop\PUC MINAS-2023\(ATP-LAB) ALGORITIMOS E TECNICAS DA PROGRAMAÇÃO\TrabalhoPratico\exemplo\obj\Debug\exemplo.pdb
+C:\TrabalhoPratico\exemplo\bin\Debug\exemplo.exe.config
+C:\TrabalhoPratico\exemplo\bin\Debug\exemplo.exe
+C:\TrabalhoPratico\exemplo\bin\Debug\exemplo.pdb
+C:\TrabalhoPratico\exemplo\obj\Debug\exemplo.csproj.AssemblyReference.cache
+C:\TrabalhoPratico\exemplo\obj\Debug\exemplo.csproj.SuggestedBindingRedirects.cache
+C:\TrabalhoPratico\exemplo\obj\Debug\exemplo.csproj.CoreCompileInputs.cache
+C:\TrabalhoPratico\exemplo\obj\Debug\exemplo.exe
+C:\TrabalhoPratico\exemplo\obj\Debug\exemplo.pdb
+C:\Users\Pc\Desktop\TrabalhoPratico\exemplo\bin\Debug\exemplo.exe.config
+C:\Users\Pc\Desktop\TrabalhoPratico\exemplo\bin\Debug\exemplo.exe
+C:\Users\Pc\Desktop\TrabalhoPratico\exemplo\bin\Debug\exemplo.pdb
+C:\Users\Pc\Desktop\TrabalhoPratico\exemplo\obj\Debug\exemplo.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\TrabalhoPratico\exemplo\obj\Debug\exemplo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pc\Desktop\TrabalhoPratico\exemplo\obj\Debug\exemplo.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\TrabalhoPratico\exemplo\obj\Debug\exemplo.exe
+C:\Users\Pc\Desktop\TrabalhoPratico\exemplo\obj\Debug\exemplo.pdb
