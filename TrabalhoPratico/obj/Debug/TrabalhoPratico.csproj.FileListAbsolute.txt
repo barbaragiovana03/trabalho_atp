@@ -14,3 +14,11 @@ C:\TrabalhoPratico\TrabalhoPratico\obj\Debug\TrabalhoPratico.csproj.SuggestedBin
 C:\TrabalhoPratico\TrabalhoPratico\obj\Debug\TrabalhoPratico.csproj.CoreCompileInputs.cache
 C:\TrabalhoPratico\TrabalhoPratico\obj\Debug\TrabalhoPratico.exe
 C:\TrabalhoPratico\TrabalhoPratico\obj\Debug\TrabalhoPratico.pdb
+C:\Users\Pc\Desktop\Nova pasta\trabalho_atp\TrabalhoPratico\bin\Debug\TrabalhoPratico.exe.config
+C:\Users\Pc\Desktop\Nova pasta\trabalho_atp\TrabalhoPratico\bin\Debug\TrabalhoPratico.exe
+C:\Users\Pc\Desktop\Nova pasta\trabalho_atp\TrabalhoPratico\bin\Debug\TrabalhoPratico.pdb
+C:\Users\Pc\Desktop\Nova pasta\trabalho_atp\TrabalhoPratico\obj\Debug\TrabalhoPratico.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Nova pasta\trabalho_atp\TrabalhoPratico\obj\Debug\TrabalhoPratico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pc\Desktop\Nova pasta\trabalho_atp\TrabalhoPratico\obj\Debug\TrabalhoPratico.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Nova pasta\trabalho_atp\TrabalhoPratico\obj\Debug\TrabalhoPratico.exe
+C:\Users\Pc\Desktop\Nova pasta\trabalho_atp\TrabalhoPratico\obj\Debug\TrabalhoPratico.pdb

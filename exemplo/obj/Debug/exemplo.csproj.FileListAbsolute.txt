@@ -22,3 +22,11 @@ C:\Users\Pc\Desktop\TrabalhoPratico\exemplo\obj\Debug\exemplo.csproj.SuggestedBi
 C:\Users\Pc\Desktop\TrabalhoPratico\exemplo\obj\Debug\exemplo.csproj.CoreCompileInputs.cache
 C:\Users\Pc\Desktop\TrabalhoPratico\exemplo\obj\Debug\exemplo.exe
 C:\Users\Pc\Desktop\TrabalhoPratico\exemplo\obj\Debug\exemplo.pdb
+C:\Users\Pc\Desktop\Nova pasta\trabalho_atp\exemplo\bin\Debug\exemplo.exe.config
+C:\Users\Pc\Desktop\Nova pasta\trabalho_atp\exemplo\bin\Debug\exemplo.exe
+C:\Users\Pc\Desktop\Nova pasta\trabalho_atp\exemplo\bin\Debug\exemplo.pdb
+C:\Users\Pc\Desktop\Nova pasta\trabalho_atp\exemplo\obj\Debug\exemplo.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Nova pasta\trabalho_atp\exemplo\obj\Debug\exemplo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pc\Desktop\Nova pasta\trabalho_atp\exemplo\obj\Debug\exemplo.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Nova pasta\trabalho_atp\exemplo\obj\Debug\exemplo.exe
+C:\Users\Pc\Desktop\Nova pasta\trabalho_atp\exemplo\obj\Debug\exemplo.pdb
